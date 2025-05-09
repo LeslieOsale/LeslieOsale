@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeslieOsale
 - 👀 I’m interested in Tech and much knowledge
-- 🌱 I’m finished school
+
 - 💞️ I’m looking to collaborate on data science stuff and web creating
 - 📫 How to reach me (whatsapp +254705809412, or email : megamindosale@gmail.com)
 - 😄 Pronouns: HIM (SIR, MR, ENG.)
